@@ -1,0 +1,136 @@
+TOP 31461780 R. .A...  -1 i 2020     0  0   0 au[06](Robert L Pitman) Enigmatic megafauna: type D killer whale in the Southern Ocean. Pitman_2019
+
+TOP 22882545 .. .A...  64 2 2013    25  0  24 au[03](P J N de Bruyn) Killer whale ecotypes: is there a global model? de_Bruyn_2012
+19 of 25 citations downloaded:
+CIT 31131963 R. HA...  -1 i 2019     4  0  72 au[35](Andrew D Foote) Killer whale genomes reveal a complex history of recurrent admixture and vicariance.
+CIT 30992478 R. HA...  -1 i 2019     2  0  32 au[09](Salvador J Jorgensen) Killer whales redistribute white shark foraging pressure on seals.
+CIT 31230140 R. .A...  -1 i 2019     0  0  36 au[12](Charlotte Curé) Evidence for discrimination between feeding sounds of familiar fish and unfamiliar mammal-eating killer whale ecotypes by long-finned pilot whales.
+CIT 31215081 R. .A...  -1 i 2019     0  0  16 au[04](Paula Sánchez-Hernández) Social interaction analysis in captive orcas (Orcinus orca).
+CIT 31631360 R. .A...  -1 i 2019     0  0  55 au[01](Jenny A Allen) Community through Culture: From Insects to Whales: How Social Learning and Culture Manifest across Diverse Animal Communities.
+CIT 31120038 R. .A...  -1 i 2019     0  0  14 au[08](Maíra Laeta) Osteochondromatosis (multiple cartilaginous exostoses) in an immature killer whale Orcinus orca.
+CIT 25883362 .. .A...  84 3 2015    35  0  85 au[02](Neil P Kelley) Vertebrate evolution. Evolutionary innovation and ecology in marine tetrapods from the Triassic to the Anthropocene.
+CIT 29895580 RP .A...  52 2 2018     2  0  22 au[07](Matthew T Bowers) Selective reactions to different killer whale call categories in two delphinid species.
+CIT 29876075 RP .A...  35 2 2018     2  0  29 au[02](Mauricio Cantor) Simple foraging rules in competitive environments can generate socially structured populations.
+CIT 30051821 RP .A...  26 2 2018     2  0  12 au[08](Ana S L Rodrigues) Forgotten Mediterranean calving grounds of grey and North Atlantic right whales: evidence from Roman archaeological records.
+CIT 28371192 R. .A...  61 2 2017     9  0 121 au[03](Katherine L Moon) Reconsidering connectivity in the sub-Antarctic.
+CIT 28666015 R. .A...  26 2 2017     2  0   8 au[04](Eve Jourdain) First longitudinal study of seal-feeding killer whales (Orcinus orca) in Norwegian coastal waters.
+CIT 27039511 R. .A...  67 2 2016     8  0  25 au[07](Saana Isojunno) Sperm whales reduce foraging effort during exposure to 1-2 kHz sonar and killer whale sounds.
+CIT 27923044 R. .A...  58 2 2016     7  0   6 au[06](Rebecca Wellard) Killer Whale (Orcinus orca) Predation on Beaked Whales (Mesoplodon spp.) in the Bremer Sub-Basin, Western Australia.
+CIT 27336480 R. .AM..  26 2 2016     4  0  75 au[05](Stefano Montelli) Back to Water: Signature of Adaptive Evolution in Cetacean Mitochondrial tRNAs.
+CIT 26937049 R. .A...  77 2 2015    16  0  34 au[04](Todd R Robeck) Comparisons of life-history parameters between free-ranging and captive killer whale (<i>Orcinus orca</i>) populations for application toward species management.
+CIT 25052415 R. .AM..  67 2 2015    21  0  37 au[09](A E Moura) Phylogenomics of the killer whale indicates ecotype divergence in sympatry.
+CIT 25738698 R. .A...  32 2 2015     5  0   5 au[06](Marta Söffker) The impact of predation by marine mammals on patagonian toothfish longline fisheries.
+CIT 24383934 R. .AM..  62 2 2014    21  0  51 au[17](Marie Louis) Habitat-driven population structure of bottlenose dolphins, Tursiops truncatus, in the North-East Atlantic.
+CIT 25244680 R. .A...  61 2 2014    22  0  58 au[10](Andre E Moura) Population genomics of the killer whale indicates ecotype evolution in sympatry involving both selection and drift.
+CIT 25297864 R. .A...  60 2 2014    16  0  39 au[10](Marie Louis) Ecological opportunities and specializations shaped genetic divergence in a highly mobile marine top predator.
+CIT 29272275 R. .A...   9 1 2017     1  0   8 au[04](Elizabeth Seely) Soundwatch: Eighteen years of monitoring whale watch vessel activities in the Salish Sea.
+CIT 27804965 .. .A...  15 1 2016     3  0  15 au[02](A R Hoelzel) Killer whales differentiating in geographic sympatry facilitated by divergent behavioural traditions.
+CIT 29692289 RP .A...   0 0 2018     0  0  14 au[06](A Reckendorf) First record of Halocercus sp. (Pseudaliidae) lungworm infections in two stranded neonatal orcas (Orcinus orca).
+CIT 27147024 .. .A...   0 0 2016     0  0   2 au[01](P J Nico de Bruyn) Conservation: Debate over whale longevity is futile.
+24 of 24 References downloaded:
+REF 19912451 R. .A...  68 2 2010    38  0  27 au[03](M Pilot) Social cohesion among kin, gene flow without dispersal and the evolution of population genetic structure in the killer whale (Orcinus orca).
+REF 15791540 R. .A...  44 2 2005    29  0  12 au[03](Roger S Thorpe) Common garden and natural selection experiments support ecotypic differentiation in the Dominican anole (Anolis oculatus).
+REF 11729317 R. .A...  97 3 2001   307  0   0 au[11](J Terborgh) Ecological meltdown in predator-free forest fragments.
+REF 20413674 R. .AM..  95 3 2010   144  0  50 au[16](Phillip A Morin) Complete mitochondrial genome phylogeographic analysis of killer whales (Orcinus orca) indicates multiple species.
+REF 17400573 R. .AM..  75 2 2007    62  0  25 au[06](A Rus Hoelzel) Evolution of population structure in a highly social top predator, the killer whale.
+REF 13679915 R. .A...  92 3 2003   156  0   2 au[03](A R E Sinclair) Patterns of predation in a diverse predator-prey system.
+REF 19919590 .. .A...   9 1 2009     5  0   5 au[02](Matthew A Cronin) Problems with the claim of ecotype and taxon status of the wolf in the Great Lakes region.
+REF 19755531 R. .A...  70 2 2010    35  0   2 au[04](John K B Ford) Linking killer whale survival and prey abundance: food limitation in the oceans' apex predator?
+REF 22073275 R. .A...  76 2 2011    45  0  60 au[05](Sebastián Duchêne) Mitogenome phylogenetics: the impact of using single regions and partitioning schemes on topology, substitution rate and divergence time estimation.
+REF 21241391 R. .AM..  48 2 2011    21  0  44 au[22](Andrew D Foote) Genetic differentiation among North Atlantic killer whale populations.
+REF 18524738 R. .A...  25 2 2008    12  0   3 au[03](Richard G LeDuc) Mitochondrial sequence divergence among Antarctic killer whale ecotypes is consistent with multiple species.
+REF 12137576 R. .AM..  58 2 2002    46  0  19 au[06](A Rus Hoelzel) Low worldwide genetic diversity in the killer whale (Orcinus orca): implications for demographic history.
+REF 20810427 R. .A...  82 2 2011    61  0  19 au[08](Andrew D Foote) Positive selection on the killer whale mitogenome.
+REF 18345862 R. .A...  36 2 2008    13  0  14 au[02](Andrew D Foote) Variation in call pitch among killer whale ecotypes.
+REF 28313404 R. HA...  21 2 1992    12  0   2 au[03](Robin W Baird) Possible indirect interactions between transient and resident killer whales: implications for the evolution of foraging specializations in the genus Orcinus.
+REF  9542159 R. .AM..  75 2 1998    61  0   0 au[03](A R Hoelzel) Low genetic variation among killer whales (Orcinus orca) in the eastern north Pacific and genetic differentiation between foraging specialists.
+REF 21949818 R. .A...  35 2 2011    16  0  42 au[06](Andrew D Foote) Out of the Pacific and back again: insights into the matrilineal history of Pacific killer whale ecotypes.
+REF 17395829 R. .A...  97 3 2007   236  0   7 au[05](Ransom A Myers) Cascading effects of the loss of apex predatory sharks from a coastal ocean.
+REF 21757487 R. .AM..  61 2 2011    25  0  39 au[11](Michael J Ford) Inferred Paternity and Male Reproductive Success in a Killer Whale (Orcinus orca) Population.
+REF 22031725 R. .A...  51 2 2012    20  0   4 au[02](J W Durban) Antarctic killer whales make rapid, round-trip movements to subtropical waters: evidence for physiological maintenance migrations?
+REF 19451116 R. .A...  26 2 2009    15  0  17 au[04](J A Estes) Causes and consequences of marine mammal population declines in southwest Alaska: a food-web perspective.
+REF 20050301 R. .A...  68 2 2009    41  0  25 au[05](Andrew D Foote) Ecological, morphological and genetic divergence of sympatric North Atlantic killer whale populations.
+REF 14526101 R. .A...  75 2 2003    83  0   8 au[08](A M Springer) Sequential megafaunal collapse in the North Pacific Ocean: an ongoing legacy of industrial whaling?
+REF 18481536 R. .A...  23 2 2008    14  0   6 au[02](Norman Owen-Smith) Shifting prey selection generates contrasting herbivore dynamics within a large-mammal predator-prey web.
+
+TOP 20050301 R. .A...  68 2 2009    41  0  25 au[05](Andrew D Foote) Ecological, morphological and genetic divergence of sympatric North Atlantic killer whale populations. FOOTE_2009
+34 of 41 citations downloaded:
+CIT 32257307 R. HA...  -1 i 2020     0  0  30 au[04](Rebecca Wellard) Cold call: the acoustic repertoire of Ross Sea killer whales (<i>Orcinus orca,</i> Type C) in McMurdo Sound, Antarctica.
+CIT 31230140 R. .A...  -1 i 2019     0  0  36 au[12](Charlotte Curé) Evidence for discrimination between feeding sounds of familiar fish and unfamiliar mammal-eating killer whale ecotypes by long-finned pilot whales.
+CIT 31808214 R. HAM..  -1 i 2019     0  0  39 au[07](Ana P B Costa) Ecological divergence and speciation in common bottlenose dolphins in the western South Atlantic.
+CIT 26610298 R. .A...  88 3 2016    19  0  32 au[06](Wouter A Gebbink) Observation of emerging per- and polyfluoroalkyl substances (PFASs) in Greenland marine mammals.
+CIT 20413674 R. .AM..  95 3 2010   144  0  50 au[16](Phillip A Morin) Complete mitochondrial genome phylogeographic analysis of killer whales (Orcinus orca) indicates multiple species.
+CIT 29531690 RP .AM..  25 2 2018     1  0  58 au[03](Jens Wollebaek) Life histories and ecotype conservation in an adaptive vertebrate: Genetic constitution of piscivorous brown trout covaries with habitat stability.
+CIT 28669761 R. .A...  77 2 2017    11  0  16 au[04](Jonathan H Geisler) The Origin of Filter Feeding in Whales.
+CIT 28554115 R. .A...  62 2 2017     5  0  29 au[08](Sara Pedro) Blubber-depth distribution and bioaccumulation of PCBs and organochlorine pesticides in Arctic-invading killer whales.
+CIT 29177038 R. .AM..  48 2 2017     4  0  30 au[12](Pedro F Fruet) Genetic divergence between two phenotypically distinct bottlenose dolphin ecotypes suggests separate evolutionary trajectories.
+CIT 28316112 .. .....  36 2 2017     5  0 155 au[07](Marylaure de la Harpe) Molecular ecology studies of species radiations: current research gaps, opportunities and challenges.
+CIT 29162872 R. .A...  30 2 2017     3  0  32 au[11](Lukáš Vejřík) European catfish (Silurus glanis) as a freshwater apex predator drives ecosystem via its diet adaptability.
+CIT 28479995 R. HAM..  29 2 2017     3  0  66 au[03](Craig R Ely) Genetic structure among greater white-fronted goose populations of the Pacific Flyway.
+CIT 29087034 R. .A...  28 2 2017     3  0  45 au[08](Amy M Van Cise) Familial social structure and socially driven genetic differentiation in Hawaiian short-finned pilot whales.
+CIT 28666015 R. .A...  26 2 2017     2  0   8 au[04](Eve Jourdain) First longitudinal study of seal-feeding killer whales (Orcinus orca) in Norwegian coastal waters.
+CIT 27923044 R. .A...  58 2 2016     7  0   6 au[06](Rebecca Wellard) Killer Whale (Orcinus orca) Predation on Beaked Whales (Mesoplodon spp.) in the Bremer Sub-Basin, Western Australia.
+CIT 27485668 R. .A...  44 2 2016    10  0  66 au[02](A D Foote) Genome-wide SNP data suggest complex ancestry of sympatric North Pacific killer whale ecotypes.
+CIT 26626574 R. .AM..  27 2 2016     5  0  40 au[05](K F Thompson) Bucking the trend: genetic analysis reveals high diversity, large population size and low differentiation in a deep ocean cetacean.
+CIT 26087773 R. .AM..  68 2 2015    22  0  60 au[22](Phillip A Morin) Geographic and temporal dynamics of a global radiation and diversification in the killer whale.
+CIT 25052415 R. .AM..  67 2 2015    21  0  37 au[09](A E Moura) Phylogenomics of the killer whale indicates ecotype divergence in sympatry.
+CIT 26233024 R. .A...  40 2 2015     5  0  13 au[08](Olga A Filatova) Killer whale call frequency is similar across the oceans, but varies across sympatric ecotypes.
+CIT 26352429 R. .A...  31 2 2015     4  0  13 au[04](Rebecca Wellard) Vocalisations of Killer Whales (Orcinus orca) in the Bremer Canyon, Western Australia.
+CIT 25297864 R. .A...  60 2 2014    16  0  39 au[10](Marie Louis) Ecological opportunities and specializations shaped genetic divergence in a highly mobile marine top predator.
+CIT 22882545 .. .A...  64 2 2013    25  0  24 au[03](P J N de Bruyn) Killer whale ecotypes: is there a global model?
+CIT 23846984 R. .AM..  31 2 2013    11  0  41 au[11](Kim M Parsons) Geographic patterns of genetic differentiation among killer whales in the northern North Pacific.
+CIT 23945688 R. .AM..  26 2 2013    11  0  31 au[09](Andrew D Foote) Tracking niche variation over millennial timescales in sympatric killer whale lineages.
+CIT 22939372 R. .A...  25 2 2013     5  0  21 au[02](Carolina Loch) Dental wear in dolphins (Cetacea: Delphinidae) from southern Brazil.
+CIT 23025595 R. .A...  81 2 2012    46  0  83 au[05](Fernanda P Werneck) Deep diversification and long-term persistence in the South American 'dry diagonal': integrating continent-wide phylogeography and distribution modeling of geckos.
+CIT 23028723 R. .A...  60 2 2012    23  0  11 au[10](Mark T Young) The cranial osteology and feeding ecology of the metriorhynchid crocodylomorph genera Dakosaurus and Plesiosuchus from the late Jurassic of Europe.
+CIT 23300613 R. .A...  50 2 2012    13  0  11 au[07](Charlotte Curé) Pilot whales attracted to killer whale sounds: acoustically-mediated interspecific interactions in cetaceans.
+CIT 22577071 R. .A...  38 2 2012    13  0  16 au[05](Mark T Young) Tooth-on-tooth interlocking occlusion suggests macrophagy in the mesozoic marine crocodylomorph dakosaurus.
+CIT 23231094 R. .A...  33 2 2012     7  0   8 au[06](Olga A Filatova) Ultrasonic whistles of killer whales (Orcinus orca) recorded in the North Pacific (L).
+CIT 22520955 R. HA...  24 2 2012     8  0  10 au[03](Steven H Ferguson) Prey items and predation behavior of killer whales (Orcinus orca) in Nunavut, Canada based on Inuit hunter interviews.
+CIT 22073275 R. .A...  76 2 2011    45  0  60 au[05](Sebastián Duchêne) Mitogenome phylogenetics: the impact of using single regions and partitioning schemes on topology, substitution rate and divergence time estimation.
+CIT 21481050 R. .A...  72 2 2011    35  0  52 au[04](Christopher E Bird) Diversification of sympatric broadcast-spawning limpets (Cellana spp.) within the Hawaiian archipelago.
+CIT 21241391 R. .AM..  48 2 2011    21  0  44 au[22](Andrew D Foote) Genetic differentiation among North Atlantic killer whale populations.
+CIT 21949818 R. .A...  35 2 2011    16  0  42 au[06](Andrew D Foote) Out of the Pacific and back again: insights into the matrilineal history of Pacific killer whale ecotypes.
+CIT 21652193 .. .A...  15 1 2012     6  0  76 au[03](Andrew D Foote) Ancient DNA from marine mammals: studying long-lived species over ecological and evolutionary timescales.
+CIT 30598785 RP .AM..   0 0 2018     0  0  60 au[05](Sara B Tavares) Killer whales (<i>Orcinus orca</i>) in Iceland show weak genetic structure among diverse isotopic signatures and observed movement patterns.
+CIT 30540762 RP .A...   0 0 2018     0  0   7 au[10](Filipa I P Samarra) Prey of killer whales (Orcinus orca) in Iceland.
+CIT 29692289 RP .A...   0 0 2018     0  0  14 au[06](A Reckendorf) First record of Halocercus sp. (Pseudaliidae) lungworm infections in two stranded neonatal orcas (Orcinus orca).
+CIT 28992601 R. .A...   0 0 2017     0  0  20 au[05](John Jett) Tooth damage in captive orcas (Orcinus orca).
+25 of 25 References downloaded:
+REF 12529641 R. .A...  97 3 2003   275  0  22 au[02](Michael Doebeli) Speciation along environmental gradients.
+REF 10432112 R. .A... 100 4 1999   696  0  18 au[02](U Dieckmann) On the origin of species by sympatric speciation.
+REF 11524383 R. ....c 100 4 2001  9045  4   0 au[02](J P Huelsenbeck) MRBAYES: Bayesian inference of phylogenetic trees.
+REF 16492742 R. .A..c  95 3 2006   190  1  17 au[03](Daniel J Funk) Ecological divergence exhibits consistently positive associations with reproductive isolation across disparate taxa.
+REF 17435255 R. .A...  19 2 2007     7  0  13 au[03](Vanessa Labrada-Martagón) Relation of dental wear to the concentrations of essential minerals in teeth of the California sea lion Zalophus californianus californianus.
+REF  9584894 R. HA...  94 3 1998   200  0   4 au[05](D Y Yang) Technical note: improved DNA extraction from ancient bones using silica-based spin columns.
+REF  8336541 R. HA..c 100 4 1993  3926 15   0 au[02](K Tamura) Estimation of the number of nucleotide substitutions in the control region of mitochondrial DNA in humans and chimpanzees.
+REF 10856956 R. .....  99 4 2000   411  0  18 au[04]( Crandall) Considering evolutionary processes in conservation biology.
+REF 16785212 R. ....c 100 4 2006  1332  4  37 au[02](Maria Anisimova) Approximate likelihood-ratio test for branches: A fast, accurate, and powerful alternative.
+REF 17877714 R. .AM..  47 2 2007    31  0  25 au[03](Sebastian Steinfartz) Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest.
+REF 18524738 R. .A...  25 2 2008    12  0   3 au[03](Richard G LeDuc) Mitochondrial sequence divergence among Antarctic killer whale ecotypes is consistent with multiple species.
+REF 12137576 R. .AM..  58 2 2002    46  0  19 au[06](A Rus Hoelzel) Low worldwide genetic diversity in the killer whale (Orcinus orca): implications for demographic history.
+REF 17504742 R. .AM..  76 2 2007    65  0  18 au[05](Sarah K Huber) Reproductive isolation of sympatric morphs in a population of Darwin's finches.
+REF 18345862 R. .A...  36 2 2008    13  0  14 au[02](Andrew D Foote) Variation in call pitch among killer whale ecotypes.
+REF 11039932 R. .AM..  94 3 2000   183  0   0 au[05](A P Hendry) Rapid evolution of reproductive isolation in the wild: evidence from introduced salmon.
+REF 17854842 R. .AM..  19 2 2007     7  0  15 au[08](Brendan McHugh) Bioaccumulation and enantiomeric profiling of organochlorine pesticides and persistent organic pollutants in the killer whale (Orcinus orca) from British and Irish waters.
+REF 18485220 R. .A...  40 2 2008    23  0  33 au[06](Jochen B W Wolf) Tracing early stages of species differentiation: ecological, morphological and genetic divergence of Galápagos sea lion populations.
+REF  7463489 R. HAM.c 100 4 1980 12175 13  16 au[01](M Kimura) A simple method for estimating evolutionary rates of base substitutions through comparative studies of nucleotide sequences.
+REF  3934395 R. HAM.c 100 4 1985  3566  6  62 au[03](M Hasegawa) Dating of the human-ape splitting by a molecular clock of mitochondrial DNA.
+REF  9254330 R. ....c 100 4 1997   849  2  14 au[01](O Gascuel) BIONJ: an improved version of the NJ algorithm based on a simple model of sequence data.
+REF 14530136 R. ....c 100 4 2003  9138 15  31 au[02](Stéphane Guindon) A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood.
+REF 17124567 R. .A...  23 2 2007    10  0   9 au[05](Sónia Mendes) Stable carbon and nitrogen isotope ratio profiling of sperm whale teeth reveals ontogenetic movements and trophic ecology.
+REF  3447015 R. .A..c 100 4 1987 27990 40   0 au[02](N Saitou) The neighbor-joining method: a new method for reconstructing phylogenetic trees.
+REF 19197052 .. .A...  98 4 2009   276  0  32 au[02](Sergey Gavrilets) Adaptive radiation: contrasting theory with data.
+REF 12650459 R. .A... 100 4 2003   589  0  48 au[07](Daniel I Bolnick) The ecology of individuals: incidence and implications of individual specialization.
+
+TOP 30123694 RP HA...  17 2 2018     1  0   6 au[07](Paul Tixier) Killer whale (<i>Orcinus orca</i>) interactions with blue-eye trevalla (<i>Hyperoglyphe antarctica</i>) longline fisheries. Tixier_2018
+1 of 1 citations downloaded:
+CIT 30760725 R. .AM..  -1 i 2019     1  0  11 au[16](Paul Tixier) Commercial fishing patterns influence odontocete whale-longline interactions in the Southern Ocean.
+6 of 6 References downloaded:
+REF 27923044 R. .A...  58 2 2016     7  0   6 au[06](Rebecca Wellard) Killer Whale (Orcinus orca) Predation on Beaked Whales (Mesoplodon spp.) in the Bremer Sub-Basin, Western Australia.
+REF 17672672 R. .A...  24 2 2007     9  0  12 au[05](Aaron Thode) Observations of potential acoustic cues that attract sperm whales to longline fishing in the Gulf of Alaska.
+REF 24558446 R. .A...  30 2 2014     6  0   0 au[04](Megan J Peterson) Killer whale depredation and associated costs to Alaskan sablefish, Pacific halibut and Greenland turbot longliners.
+REF 27851763 R. .A...  22 2 2016     3  0   1 au[04](Maria João Cruz) Predicting Interactions between Common Dolphins and the Pole-and-Line Tuna Fishery in the Azores.
+REF 25738698 R. .A...  32 2 2015     5  0   5 au[06](Marta Söffker) The impact of predation by marine mammals on patagonian toothfish longline fisheries.
+REF 27908079 R. .A...  35 2 2016     3  0   4 au[11](Aaron Thode) Using line acceleration to measure false killer whale (Pseudorca crassidens) click and whistle source levels during pelagic longline depredation.
+

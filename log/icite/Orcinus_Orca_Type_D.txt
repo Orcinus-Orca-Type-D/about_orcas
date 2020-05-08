@@ -1,0 +1,10 @@
+TOP 31461780 R. .A...  -1 i 2020     0  0   0 au[06](Robert L Pitman) Enigmatic megafauna: type D killer whale in the Southern Ocean.
+
+TOP 22882545 .. .A...  64 2 2013    25  0  24 au[03](P J N de Bruyn) Killer whale ecotypes: is there a global model?
+1 of 24 References downloaded:
+REF 20050301 R. .A...  68 2 2009    41  0  25 au[05](Andrew D Foote) Ecological, morphological and genetic divergence of sympatric North Atlantic killer whale populations.
+
+TOP 20050301 R. .A...  68 2 2009    41  0  25 au[05](Andrew D Foote) Ecological, morphological and genetic divergence of sympatric North Atlantic killer whale populations.
+1 of 41 citations downloaded:
+CIT 22882545 .. .A...  64 2 2013    25  0  24 au[03](P J N de Bruyn) Killer whale ecotypes: is there a global model?
+
