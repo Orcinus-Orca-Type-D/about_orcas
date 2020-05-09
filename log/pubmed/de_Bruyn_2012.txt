@@ -1,0 +1,76 @@
+
+PMID- 22882545
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20131115
+LR  - 20130103
+IS  - 1469-185X (Electronic)
+IS  - 0006-3231 (Linking)
+VI  - 88
+IP  - 1
+DP  - 2013 Feb
+TI  - Killer whale ecotypes: is there a global model?
+PG  - 62-80
+LID - 10.1111/j.1469-185X.2012.00239.x [doi]
+AB  - Killer whales, Orcinus orca, are top predators occupying key ecological roles in 
+      a variety of ecosystems and are one of the most widely distributed mammals on the
+      planet. In consequence, there has been significant interest in understanding
+      their basic biology and ecology. Long-term studies of Northern Hemisphere killer 
+      whales, particularly in the eastern North Pacific (ENP), have identified three
+      ecologically distinct communities or ecotypes in that region. The success of
+      these prominent ENP studies has led to similar efforts at clarifying the role of 
+      killer whale ecology in other regions, including Antarctica. In the Southern
+      Hemisphere, killer whales present a range of behavioural, social and
+      morphological characteristics to biologists, who often interpret this as evidence
+      to categorize individuals or groups, and draw general ecological conclusions
+      about these super-predators. Morphologically distinct forms (Type A, B, C, and D)
+      occur in the Southern Ocean and studies of these different forms are often
+      presented in conjunction with evidence for specialised ecology and behaviours.
+      Here we review current knowledge of killer whale ecology and ecotyping globally
+      and present a synthesis of existing knowledge. In particular, we highlight the
+      complexity of killer whale ecology in the Southern Hemisphere and examine this in
+      the context of comparatively well-studied Northern Hemisphere populations. We
+      suggest that assigning erroneous or prefatory ecotypic status in the Southern
+      Hemisphere could be detrimental to subsequent killer whale studies, because
+      unsubstantiated characteristics may be assumed as a result of such
+      classification. On this basis, we also recommend that ecotypic status
+      classification for Southern Ocean killer whale morphotypes be reserved until more
+      evidence-based ecological and taxonomic data are obtained.
+CI  - (c) 2012 The Authors. Biological Reviews (c) 2012 Cambridge Philosophical
+      Society.
+FAU - de Bruyn, P J N
+AU  - de Bruyn PJ
+AD  - Department of Zoology & Entomology, Mammal Research Institute, University of
+      Pretoria, Private Bag X20, Hatfield 0028, South Africa.
+      pjndebruyn@zoology.up.ac.za
+FAU - Tosh, Cheryl A
+AU  - Tosh CA
+FAU - Terauds, Aleks
+AU  - Terauds A
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20120809
+PL  - England
+TA  - Biol Rev Camb Philos Soc
+JT  - Biological reviews of the Cambridge Philosophical Society
+JID - 0414576
+SB  - IM
+MH  - Animals
+MH  - Demography
+MH  - *Ecosystem
+MH  - Feeding Behavior
+MH  - Models, Biological
+MH  - Social Behavior
+MH  - Whale, Killer/*classification/genetics/*physiology
+EDAT- 2012/08/14 06:00
+MHDA- 2013/11/16 06:00
+CRDT- 2012/08/14 06:00
+PHST- 2012/08/14 06:00 [entrez]
+PHST- 2012/08/14 06:00 [pubmed]
+PHST- 2013/11/16 06:00 [medline]
+AID - 10.1111/j.1469-185X.2012.00239.x [doi]
+PST - ppublish
+SO  - Biol Rev Camb Philos Soc. 2013 Feb;88(1):62-80. doi:
+      10.1111/j.1469-185X.2012.00239.x. Epub 2012 Aug 9.

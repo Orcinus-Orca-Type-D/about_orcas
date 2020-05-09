@@ -6,11 +6,13 @@ add:
 	git status
 
 git_add_hili:
-	git add log/exports/*.html
-	git add log/references/*.txt
-	git add src/papers/highlights/*.py
-	# git add src/papers/flashcards/*.py
-	git add doc/papers/*.pdf
+	git add log/icite/*.txt
+	git add log/pmids/*.txt
+	#git add log/exports/*.html
+	#git add log/references/*.txt
+	#git add src/papers/highlights/*.py
+	#git add src/papers/flashcards/*.py
+	#git add doc/papers/*.pdf
 	find log/pubmed -type f | perl -ne 'if ($$_ !~ /p\d+\.txt/) {print}' | xargs git add -f
 
 

@@ -1,0 +1,68 @@
+
+PMID- 31461780
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20200102
+IS  - 1939-9170 (Electronic)
+IS  - 0012-9658 (Linking)
+VI  - 101
+IP  - 1
+DP  - 2020 Jan
+TI  - Enigmatic megafauna: type D killer whale in the Southern Ocean.
+PG  - e02871
+LID - 10.1002/ecy.2871 [doi]
+FAU - Pitman, Robert L
+AU  - Pitman RL
+AD  - NOAA Fisheries, Southwest Fisheries Science Center, 8901 La Jolla Shores Drive,
+      La Jolla, California, 92037, USA.
+FAU - Ballance, Lisa T
+AU  - Ballance LT
+AD  - NOAA Fisheries, Southwest Fisheries Science Center, 8901 La Jolla Shores Drive,
+      La Jolla, California, 92037, USA.
+AD  - Scripps Institution of Oceanography, 8622 Kennel Way, La Jolla, California,
+      92037, USA.
+FAU - Sironi, Mariano
+AU  - Sironi M
+AD  - Instituto de Conservacion de Ballenas, O'Higgins 4380, Ciudad Autonoma de Buenos 
+      Aires, Argentina.
+AD  - Centro de Conservacion Cetacea, Casilla 19178, Correo Lo Castillo, Vitacura,
+      Santiago, Chile.
+FAU - Totterdell, John
+AU  - Totterdell J
+AD  - Cetacean Research Centre (CETREC WA), 10 Tonge Place, Exmouth, Western Australia,
+      6707, Australia.
+FAU - Towers, Jared R
+AU  - Towers JR
+AD  - Bay Cetology, 257 Fir Street, Alert Bay, British Columbia, V0N 1A0, Canada.
+FAU - Wellard, Rebecca
+AU  - Wellard R
+AD  - Project ORCA (Orca Research and Conservation Australia), Perth, Western
+      Australia,, Australia.
+AD  - Centre for Marine Science & Technology, Curtin University, GPO Box U1987, Perth, 
+      Western Australia, 6845, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20191009
+PL  - United States
+TA  - Ecology
+JT  - Ecology
+JID - 0043541
+SB  - IM
+OTO - NOTNLM
+OT  - Orcinus orca
+OT  - Southern Ocean
+OT  - ecotype
+OT  - killer whale
+OT  - type D
+EDAT- 2019/08/29 06:00
+MHDA- 2019/08/29 06:00
+CRDT- 2019/08/29 06:00
+PHST- 2019/06/03 00:00 [received]
+PHST- 2019/07/22 00:00 [revised]
+PHST- 2019/07/24 00:00 [accepted]
+PHST- 2019/08/29 06:00 [pubmed]
+PHST- 2019/08/29 06:00 [medline]
+PHST- 2019/08/29 06:00 [entrez]
+AID - 10.1002/ecy.2871 [doi]
+PST - ppublish
+SO  - Ecology. 2020 Jan;101(1):e02871. doi: 10.1002/ecy.2871. Epub 2019 Oct 9.

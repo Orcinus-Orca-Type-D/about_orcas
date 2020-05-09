@@ -1,0 +1,98 @@
+
+PMID- 30123694
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20191120
+IS  - 2167-8359 (Print)
+IS  - 2167-8359 (Linking)
+VI  - 6
+DP  - 2018
+TI  - Killer whale (Orcinus orca) interactions with blue-eye trevalla (Hyperoglyphe
+      antarctica) longline fisheries.
+PG  - e5306
+LID - 10.7717/peerj.5306 [doi]
+AB  - Over the past five decades, marine mammal interactions with fisheries have become
+      a major human-wildlife conflict globally. The emergence of longline fishing is
+      concomitant with the development of depredation-type interactions i.e., marine
+      mammals feeding on fish caught on hooks. The killer whale (Orcinus orca) is one
+      of the species most involved in depredation on longline fisheries. The issue was 
+      first reported in high latitudes but, with increasing expansion of this fishing
+      method, other fisheries have begun to experience interactions. The present study 
+      investigated killer whale interactions with two geographically isolated blue-eye 
+      trevalla (Hyperoglyphe antarctica) fisheries operating in temperate waters off
+      Amsterdam/St. Paul Islands (Indian Ocean) and south-eastern Australia. These two 
+      fisheries differ in the fishing technique used (vertical vs. demersal longlines),
+      effort, catch, fleet size and fishing area size. Using 7-year (2010-16) long
+      fishing and observation datasets, this study estimated the levels of killer whale
+      interactions and examined the influence of spatio-temporal and operational
+      variables on the probability of vessels to experience interactions. Killer whales
+      interactions occurred during 58.4% and 21.2% of all fishing days, and over 94%
+      and 47.4% of the fishing area for both fisheries, respectively. In south-eastern 
+      Australia, the probability of occurrence of killer whale interactions during
+      fishing days varied seasonally with a decrease in spring, increased with the
+      daily fishing effort and decreased with the distance travelled by the vessel
+      between fishing days. In Amsterdam/St. Paul, this probability was only influenced
+      by latitude, with an increase in the southern part of the area. Together, these
+      findings document two previously unreported cases of high killer whale
+      depredation, and provide insights on ways to avoid the issue. The study also
+      emphasizes the need to further examine the local characteristics of fisheries and
+      the ecology of local depredating killer whale populations in as important drivers
+      of depredation.
+FAU - Tixier, Paul
+AU  - Tixier P
+AD  - School of Life and Environmental Sciences (Burwood Campus), Deakin University,
+      Geelong, Victoria, Australia.
+FAU - Lea, Mary-Anne
+AU  - Lea MA
+AD  - Ecology and Biodiversity Centre, Institute for Marine and Antarctic Studies,
+      University of Tasmania, Hobart, Tasmania, Australia.
+FAU - Hindell, Mark A
+AU  - Hindell MA
+AD  - Ecology and Biodiversity Centre, Institute for Marine and Antarctic Studies,
+      University of Tasmania, Hobart, Tasmania, Australia.
+FAU - Guinet, Christophe
+AU  - Guinet C
+AD  - Centre d'Etudes Biologiques de Chize (CEBC), UMR 7372 Universite de La
+      Rochelle-CNRS, Villiers-en-Bois, France.
+FAU - Gasco, Nicolas
+AU  - Gasco N
+AD  - Departement Adaptations du vivant, UMR BOREA, Museum national d'Histoire
+      naturelle, Paris, France.
+FAU - Duhamel, Guy
+AU  - Duhamel G
+AD  - Departement Adaptations du vivant, UMR BOREA, Museum national d'Histoire
+      naturelle, Paris, France.
+FAU - Arnould, John P Y
+AU  - Arnould JPY
+AD  - School of Life and Environmental Sciences (Burwood Campus), Deakin University,
+      Geelong, Victoria, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20180808
+PL  - United States
+TA  - PeerJ
+JT  - PeerJ
+JID - 101603425
+PMC - PMC6087417
+OTO - NOTNLM
+OT  - Blue-eye trevalla
+OT  - Depredation
+OT  - Fisheries
+OT  - Fisheries interaction
+OT  - Hyperoglyphe antarctica
+OT  - Killer whale
+OT  - Longline fisheries
+OT  - Orcinus orca
+COIS- The authors declare there are no competing interests.
+EDAT- 2018/08/21 06:00
+MHDA- 2018/08/21 06:01
+CRDT- 2018/08/21 06:00
+PHST- 2018/03/13 00:00 [received]
+PHST- 2018/07/03 00:00 [accepted]
+PHST- 2018/08/21 06:00 [entrez]
+PHST- 2018/08/21 06:00 [pubmed]
+PHST- 2018/08/21 06:01 [medline]
+AID - 10.7717/peerj.5306 [doi]
+AID - 5306 [pii]
+PST - epublish
+SO  - PeerJ. 2018 Aug 8;6:e5306. doi: 10.7717/peerj.5306. eCollection 2018.

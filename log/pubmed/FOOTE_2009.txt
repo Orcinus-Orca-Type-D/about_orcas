@@ -1,0 +1,73 @@
+
+PMID- 20050301
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100201
+LR  - 20190917
+IS  - 1365-294X (Electronic)
+IS  - 0962-1083 (Linking)
+VI  - 18
+IP  - 24
+DP  - 2009 Dec
+TI  - Ecological, morphological and genetic divergence of sympatric North Atlantic
+      killer whale populations.
+PG  - 5207-17
+AB  - Ecological divergence has a central role in speciation and is therefore an
+      important source of biodiversity. Studying the micro-evolutionary processes of
+      ecological diversification at its early stages provides an opportunity for
+      investigating the causative mechanisms and ecological conditions promoting
+      divergence. Here we use morphological traits, nitrogen stable isotope ratios and 
+      tooth wear to characterize two disparate types of North Atlantic killer whale. We
+      find a highly specialist type, which reaches up to 8.5 m in length and a
+      generalist type which reaches up to 6.6 m in length. There is a single fixed
+      genetic difference in the mtDNA control region between these types, indicating
+      integrity of groupings and a shallow divergence. Phylogenetic analysis indicates 
+      this divergence is independent of similar ecological divergences in the Pacific
+      and Antarctic. Niche-width in the generalist type is more strongly influenced by 
+      between-individual variation rather than within-individual variation in the
+      composition of the diet. This first step to divergent specialization on different
+      ecological resources provides a rare example of the ecological conditions at the 
+      early stages of adaptive radiation.
+FAU - Foote, Andrew D
+AU  - Foote AD
+AD  - Institute of Biological and Environmental Sciences, University of Aberdeen,
+      Cromarty, UK. a.d.foote@abdn.ac.uk
+FAU - Newton, Jason
+AU  - Newton J
+FAU - Piertney, Stuart B
+AU  - Piertney SB
+FAU - Willerslev, Eske
+AU  - Willerslev E
+FAU - Gilbert, M Thomas P
+AU  - Gilbert MT
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Mol Ecol
+JT  - Molecular ecology
+JID - 9214478
+RN  - 0 (DNA, Mitochondrial)
+RN  - 0 (Nitrogen Isotopes)
+SB  - IM
+MH  - Animals
+MH  - Bayes Theorem
+MH  - DNA, Mitochondrial/genetics
+MH  - Ecosystem
+MH  - *Evolution, Molecular
+MH  - *Genetics, Population
+MH  - Likelihood Functions
+MH  - Nitrogen Isotopes/analysis
+MH  - Phylogeny
+MH  - Sequence Analysis, DNA
+MH  - Tooth Wear
+MH  - Whale, Killer/anatomy & histology/*genetics/metabolism
+EDAT- 2010/01/06 06:00
+MHDA- 2010/02/02 06:00
+CRDT- 2010/01/06 06:00
+PHST- 2010/01/06 06:00 [entrez]
+PHST- 2010/01/06 06:00 [pubmed]
+PHST- 2010/02/02 06:00 [medline]
+AID - 10.1111/j.1365-294x.2009.04407.x [doi]
+PST - ppublish
+SO  - Mol Ecol. 2009 Dec;18(24):5207-17. doi: 10.1111/j.1365-294x.2009.04407.x.

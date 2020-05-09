@@ -10,6 +10,7 @@ def main(force_dnld=False):
     obj = PubMedQueryToICite(force_dnld)
     # Write to: ./log/pmids and ./log/icite
     obj.querypubmed_runicite('Orcinus_Orca_Type_D.txt', 'Orcinus Orca Type D')
+    obj.querypubmed_runicite('Orcinus_Orca.txt', 'Orcinus Orca')
 
 
 if __name__ == '__main__':
