@@ -23,7 +23,7 @@ open_cmd = None
 edit_cmd = ""
 
 # Which default extension to use when creating a note file.
-note_extension = txt
+note_extension = md
 
 # If true debug mode is on which means exceptions are not catched and
 # the full python stack is printed.
